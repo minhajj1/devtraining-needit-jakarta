@@ -24,6 +24,25 @@
             <dependent_value/>
             <element>u_request_type</element>
             <hint/>
+            <inactive>true</inactive>
+            <label>My Department</label>
+            <language>en</language>
+            <name>x_58872_needit_needit</name>
+            <sequence>0</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-03-18 20:42:07</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>adaae341db1433007b4111203996194e</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-03-19 15:57:21</sys_updated_on>
+            <value>mydept</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_request_type</element>
+            <hint/>
             <inactive>false</inactive>
             <label>Facilities</label>
             <language>en</language>
@@ -63,19 +82,19 @@
             <element>u_request_type</element>
             <hint/>
             <inactive>false</inactive>
-            <label>My Department</label>
+            <label>Other</label>
             <language>en</language>
             <name>x_58872_needit_needit</name>
             <sequence>3</sequence>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-03-18 20:42:07</sys_created_on>
+            <sys_created_on>2019-03-19 15:57:21</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>adaae341db1433007b4111203996194e</sys_id>
+            <sys_id>84133715db5033007b411120399619fe</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-03-18 20:42:07</sys_updated_on>
-            <value>mydept</value>
+            <sys_updated_on>2019-03-19 15:57:21</sys_updated_on>
+            <value>other</value>
         </sys_choice>
         <sys_choice_set action="INSERT_OR_UPDATE">
             <element>u_request_type</element>
